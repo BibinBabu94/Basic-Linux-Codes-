@@ -1,0 +1,12 @@
+pwd – to get the working directory
+cd / - change diectory ( here cd / is to take you to root directory)
+ls – list view
+ls -l – long list program
+ls – la – includes all hidden files
+uname – to get details about machine 
+uname -a – to get detail about linux 
+echo – to take a string and print it 
+cp – to copy 
+gunzip – to unzip a file
+ln –s – to create a symbolic link
+mkdir – to make a directory
