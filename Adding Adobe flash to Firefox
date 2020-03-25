@@ -1,1 +1,11 @@
+***************************************************************************************
+Step1 : Download the latest version of adobe 
+        Select .tar file for Linux
+Step2 : Extract the downloaded file by selcting "extract here"
+Step3 : Now we have to copy the lib***.so file to the firefox folder
+        Now on the terminal goto : cd /usr/lib/mozilla/plugins
+        In the above said folder copy the lib***.so file
+        sudo cp ~/Downloads/Your Extracted file Name/lib***.so .
+Step3 : Now restart your system and try opening a video in firefox.
 
+*****************************************************************************************
