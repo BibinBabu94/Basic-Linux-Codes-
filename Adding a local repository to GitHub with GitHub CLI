@@ -2,7 +2,7 @@ Initialize the local directory as a Git repository.
 git init
 Stage and commit all the files in your project
 git add . && git commit -m "initial commit"
-$ git remote add origin  <REMOTE_URL> 
+$ git remote add origin  <REMOTE URL> 
 # Sets the new remote
 $ git remote -v
 # Verifies the new remote URL
